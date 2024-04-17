@@ -29,3 +29,13 @@ This project demonstrates how to work with large datasets, from extraction and c
 2.Formatting and transforming columns
 
 3.Removing duplicates
+
+**SQL Server:** Loaded the cleaned dataset into SQL Server and conducted in-depth analysis using SQL queries.
+
+**Data Analysis: Used SQL to:**
+
+1.Aggregate data
+
+2.Identify trends
+
+3.Generate insights for decision-making
