@@ -39,3 +39,13 @@ This project demonstrates how to work with large datasets, from extraction and c
 2.Identify trends
 
 3.Generate insights for decision-making
+
+**Skills Demonstrated**
+
+**Python:** Proficient use of libraries like Pandas for data manipulation and analysis.
+
+**SQL:** Strong command over SQL queries for data aggregation, filtering, and exploration.
+
+**ETL Workflow:** Implemented a seamless Extract-Transform-Load process.
+
+**Problem-Solving:** Identified and resolved data quality issues to ensure reliable analysis.
