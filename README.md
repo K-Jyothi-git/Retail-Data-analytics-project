@@ -49,3 +49,15 @@ This project demonstrates how to work with large datasets, from extraction and c
 **ETL Workflow:** Implemented a seamless Extract-Transform-Load process.
 
 **Problem-Solving:** Identified and resolved data quality issues to ensure reliable analysis.
+
+**<h3>How to Run This Project</h3>**
+
+**Clone this repository:**
+
+git clone https://github.com/yourusername/yourrepository.git
+
+**Install the required Python libraries:**
+
+pip install -r requirements.txt
+
+Use the Kaggle API to download the dataset (instructions included in the notebook).
