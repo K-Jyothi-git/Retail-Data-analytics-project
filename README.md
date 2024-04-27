@@ -61,3 +61,13 @@ git clone https://github.com/yourusername/yourrepository.git
 pip install -r requirements.txt
 
 Use the Kaggle API to download the dataset (instructions included in the notebook).
+
+**Run the Python scripts for data cleaning and preprocessing:**
+
+1.Order Data Analysis.ipynb (Jupyter Notebook for detailed cleaning steps)
+
+2.orders data analysis.py (Python script version for automation)
+
+3.Load the cleaned data into an SQL Server database (setup instructions provided).
+
+4.Execute the SQL queries to analyze the data using SQLQuery3.sql.
