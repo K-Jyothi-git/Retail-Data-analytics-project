@@ -71,3 +71,17 @@ Use the Kaggle API to download the dataset (instructions included in the noteboo
 3.Load the cleaned data into an SQL Server database (setup instructions provided).
 
 4.Execute the SQL queries to analyze the data using SQLQuery3.sql.
+
+**<h3>Files in the Repository</h3>**
+
+**Order Data Analysis.ipynb:** Jupyter notebook for data cleaning and preprocessing.
+
+**orders data analysis.py:** Python script to clean and prepare the data.
+
+**SQLQuery3.sql:** Collection of SQL queries for data analysis.
+
+**orders.csv:** Raw dataset containing retail order information.
+
+**project architecture.png:** Visual representation of the project workflow.
+
+**README.md:** Project documentation.
