@@ -85,3 +85,13 @@ Use the Kaggle API to download the dataset (instructions included in the noteboo
 **project architecture.png:** Visual representation of the project workflow.
 
 **README.md:** Project documentation.
+
+**<h3>Key Insights from the Analysis</h3>**
+
+1.Identified top-selling products and their revenue contributions.
+
+2.Analyzed customer purchasing patterns to inform marketing strategies.
+
+3.Determined peak sales periods for inventory management optimization.
+
+4.Segmented customers based on order frequency and value for targeted promotions.
