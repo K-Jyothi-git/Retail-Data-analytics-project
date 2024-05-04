@@ -95,3 +95,7 @@ Use the Kaggle API to download the dataset (instructions included in the noteboo
 3.Determined peak sales periods for inventory management optimization.
 
 4.Segmented customers based on order frequency and value for targeted promotions.
+
+**Why This Project Matters**
+
+This project demonstrates a solid understanding of the data analytics lifecycle, from raw data to actionable insights. It showcases my technical skills, attention to detail, and ability to work with multiple tools and technologies-all essential for a career in data analytics.
