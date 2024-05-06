@@ -105,3 +105,9 @@ This project demonstrates a solid understanding of the data analytics lifecycle,
 Feel free to explore the project and reach out with any questions or feedback. I'm excited to connect with like-minded professionals and recruiters in the data analytics field.
 
 **Email:** Kalakotijyothi01@gmail.com
+
+<h3>About the Maintainer</h3>
+
+This project is maintained by **Jyothi Kalakoti**, a Data Analyst with strong skills in **SQL, Python, and data visualization tools such as Power BI and Tableau**. She is passionate about transforming raw data into meaningful insights through data analysis, dashboards, and visualization.
+
+Her work focuses on **data cleaning, exploratory data analysis (EDA), and building data-driven solutions** using modern analytics tools including **Python, SQL, and PySpark**. This project reflects her commitment to solving real-world business problems through structured data analysis and insightful reporting.
