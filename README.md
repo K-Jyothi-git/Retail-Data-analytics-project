@@ -99,3 +99,9 @@ Use the Kaggle API to download the dataset (instructions included in the noteboo
 **Why This Project Matters**
 
 This project demonstrates a solid understanding of the data analytics lifecycle, from raw data to actionable insights. It showcases my technical skills, attention to detail, and ability to work with multiple tools and technologies-all essential for a career in data analytics.
+
+**Let's Connect**
+
+Feel free to explore the project and reach out with any questions or feedback. I'm excited to connect with like-minded professionals and recruiters in the data analytics field.
+
+**Email:** Kalakotijyothi01@gmail.com
